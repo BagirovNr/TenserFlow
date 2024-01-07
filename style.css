@@ -1,0 +1,37 @@
+html {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/1200px-TensorFlow_logo.svg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+}
+
+video {
+  clear: both;
+  display: block;
+  margin-left: 120px;
+  background: #000000;
+  width: 640px;
+  height: 480px;
+}
+
+button {
+  padding: 10px;
+  float: left;
+  margin: 5px 3px 5px 10px;
+}
+
+.removed {
+  display: none;
+}
+
+#status {
+  font-size: 150%;
+}/*# sourceMappingURL=style.css.map */
